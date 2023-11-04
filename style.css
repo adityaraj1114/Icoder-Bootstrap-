@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* .image-height {
+      height: 70vh;
+  } */
+  
+  /* p {
+      color: black;
+  }
+  
+  h2 {
+      color: black;
+  } */
+  
+  
+  .d-block {
+    height: 70vh;
+  }
+  
+  .bd-placeholder-img {
+    border-radius: 50%;
+  }
+  
+  /* .col {
+      background-color: rgb(209, 208, 208);
+  } */
